@@ -2,6 +2,7 @@
 
 ## Descripción
 
+
 Este es mi portafolio personal como desarrollador Full Stack. El sitio web presenta mis habilidades, proyectos destacados y información de contacto de manera profesional y moderna.
 
 ## Tecnologías Utilizadas
@@ -61,6 +62,8 @@ Este es mi portafolio personal como desarrollador Full Stack. El sitio web prese
    ```
 
 3. Abre el archivo `index.html` en tu navegador web preferido
+
+4. link de Netlify: https://portafolio-c.netlify.app/
 
 ## Estructura del Proyecto
 
